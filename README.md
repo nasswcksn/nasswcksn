@@ -3,7 +3,7 @@
 <table>
 <tr>
 <!-- Logo Kampus PENS -->
-<td valign="top"><a href="https://www.pens.ac.id/" target="_blank"><img src="./assets/Logo_PENS (1).png" alt="Logo PENS" width="100"></a></td>
+<td valign="top"><a href="https://www.pens.ac.id/" target="_blank"><img src="./assets/Logo_PENS (1).png" alt="Logo PENS" width="200"></a></td>
 <td valign="top">
 <h2>ANAS WICAKSONO</h2>
 <p><b>Applied Data Science Student at Politeknik Elektronika Negeri Surabaya (PENS)</b></p>
