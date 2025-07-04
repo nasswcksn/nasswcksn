@@ -27,7 +27,9 @@
 💬  Feel free to reach out for further discussions or collaboration opportunities.<br>
 ✉️  You can reach me by email at anaswicaksonoanas@gmail.com.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="bottom" width="250"/>
+<p align="center">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
+</p>
 
 ## 🛠 Skills & Technology
 
