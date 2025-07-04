@@ -27,6 +27,7 @@
 💬  Feel free to reach out for further discussions or collaboration opportunities.<br>
 ✉️  You can reach me by email at anaswicaksonoanas@gmail.com.
 
+
 <p align="center">
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
 </p>
@@ -45,14 +46,16 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Chart.js](https://img.shields.io/badge/-Chart.js-05122A?style=flat&logo=chartdotjs&logoColor=FF6384)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana&logoColor=F46800)&nbsp;
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark&logoColor=E25A1C)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)&nbsp;
+![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apachehadoop&logoColor=66CCFF)&nbsp;
+![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-05122A?style=flat&logo=apachehive&logoColor=FDEE21)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=apacheairflow&logoColor=017CEE)&nbsp;
 
 ## 🏆 GitHub Trophies
 <p align="center">
