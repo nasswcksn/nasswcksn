@@ -3,11 +3,24 @@
 <table>
 <tr>
 <!-- Logo Kampus PENS -->
-<td valign="top"><a href="https://www.pens.ac.id/" target="_blank"><img src="./assets/Logo_PENS (1).png" alt="Logo PENS" width="200"></a></td>
+<td valign="top" align="center">
+  <a href="https://www.pens.ac.id/" target="_blank" style="text-decoration: none;">
+    <img src="./assets/Logo_PENS (1).png" alt="Logo PENS" width="200"><br>
+    <img src="https://img.shields.io/badge/Visit%20Official%20Website-0057B8?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit Official Website"/>
+  </a>
+  <div style="font-size: 12px; color: #555;">Click the logo or button to visit the official PENS website</div>
+</td>
 <td valign="top">
 <h2>ANAS WICAKSONO</h2>
 <p><b>Applied Data Science Student at Politeknik Elektronika Negeri Surabaya (PENS)</b></p>
 <p>Surabaya, East Java, Indonesia</p>
+<br>
+<b>Institution Information:</b>
+<ul>
+  <li><b>Address:</b> Jalan Raya ITS, Sukolilo, Surabaya 60111, East Java, Indonesia</li>
+  <li><b>Phone:</b> (62)31 5947280</li>
+  <li><b>Established:</b> 1984</li>
+</ul>
 </td>
 </tr>
 </table>
