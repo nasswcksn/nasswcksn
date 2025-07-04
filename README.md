@@ -17,8 +17,9 @@
   <img src="./assets/pens.jpg" alt="PENS Campus" width="60%"/>
 </p>
 
-<!-- Tentang Saya -->
-<b>👨🏻‍💻 &nbsp;About Me</b><br>
+
+## 👨🏻‍💻 About Me
+
 💡  I am a student with a keen interest in data analysis, media, and digital information.<br>
 🎓  Currently pursuing a Bachelor of Applied Science (B.A.Sc.) in Applied Data Science.<br>
 🌱  I am passionate about learning and contributing to providing quality insights through effective data analysis.<br>
@@ -26,10 +27,10 @@
 💬  Feel free to reach out for further discussions or collaboration opportunities.<br>
 ✉️  You can reach me by email at anaswicaksonoanas@gmail.com.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="40%"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="250"/>
 
+## 🛠 Skills & Technology
 
-<b>🛠 &nbsp;Skills & Technology</b><br>
 <!-- Tambahkan atau sesuaikan sesuai keahlian Anda -->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -51,15 +52,14 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-
-🏆  <b>GitHub Trophies</b>
+## 🏆 GitHub Trophies
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=nasswcksn&theme=algolia&column=7"/>
 </a>
 </p>
 
-⚙️  <b>GitHub Analytics</b>
+## ⚙️ GitHub Analytics
 <p align="center">
 <a href="https://github.com/nasswcksn">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nasswcksn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -67,11 +67,11 @@
 </a>
 </p>
 
-
-🤝🏻  <b>Contact Me</b>
+## 🤝🏻 Contact Me
 <p align="center">
 <a href="mailto:anaswicaksonoanas@gmail.com"><img src="https://img.shields.io/badge/-anaswicaksonoanas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anas-wicaksono-690ba2365"><img src="https://img.shields.io/badge/-Anas%20Wicaksono-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/nasswcksn"><img src="https://img.shields.io/badge/-@nasswcksn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://wa.me/6281235618385"><img src="https://img.shields.io/badge/-Contact%20Me-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@taskresek03"><img src="https://img.shields.io/badge/-@taskresek03-000000?style=flat&logo=TikTok&logoColor=white"/></a>
 </p>
