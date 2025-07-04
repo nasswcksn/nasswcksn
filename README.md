@@ -6,9 +6,8 @@
 <td valign="top" align="center">
   <a href="https://www.pens.ac.id/" target="_blank" style="text-decoration: none;">
     <img src="./assets/Logo_PENS (1).png" alt="Logo PENS" width="200"><br>
-    <img src="https://img.shields.io/badge/Visit%20Official%20Website-0057B8?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit Official Website"/>
+    <img src="https://img.shields.io/badge/Visit%20Official%20Website-0057B8?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Official Website"/>
   </a>
-  <div style="font-size: 12px; color: #555;">Click the logo or button to visit the official PENS website</div>
 </td>
 <td valign="top">
 <h2>ANAS WICAKSONO</h2>
