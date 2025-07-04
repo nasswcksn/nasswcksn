@@ -6,8 +6,13 @@
 <td valign="top" align="center">
   <a href="https://www.pens.ac.id/" target="_blank" style="text-decoration: none;">
     <img src="./assets/Logo_PENS (1).png" alt="Logo PENS" width="200"><br>
-    <img src="https://img.shields.io/badge/Visit%20Official%20Website-0057B8?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Official Website"/>
+    <img 
+      src="https://img.shields.io/badge/Visit%20Official%20Website-0057B8?style=for-the-badge&logo=internet-explorer&logoColor=white" 
+      alt="Official Website"
+      style="border: 2px solid #0057B8; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"
+    />
   </a>
+</td>
 </td>
 <td valign="top">
 <h2>ANAS WICAKSONO</h2>
