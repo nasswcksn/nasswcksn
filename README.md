@@ -17,14 +17,17 @@ I am always eager to collaborate on projects that challenge me to grow and expan
 ## 🛠 Skills & Technology
 
 ### 🧑‍🔬 Data Science & Analytics
-<code><a href="https://github.com/danielex1999" target="_blank"><img src="assets/Python_logo_(icon_only).svg"	width="26px" alt="pyton"></a></code>
-![R (Statistics)](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)&nbsp;
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)&nbsp;
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)&nbsp;
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Python_logo_(icon_only).svg"	width="26px" alt="pyton"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/R-Lang--Streamline-Svg-Logos.png"	width="26px" alt="R"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/power-bi-icon.png"	width="26px" alt="Power BI"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Chartjs--Streamline-Svg-Logos (3).png"	width="26px" alt="Chart.js"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Grafana--Streamline-Svg-Logos (1).png"	width="26px" alt="R"></a></code>
 
 ### Data Engineer
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Hadoop--Streamline-Svg-Logos.png"	width="26px" alt="Hadoop"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/512px-Apache_Hive_logo.svg.png"	width="26px" alt="Apache Hive"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Airflow-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Apache Airflow"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Apache-Spark--Streamline-Svg-Logos.png"	width="26px" alt="R"></a></code>
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)&nbsp;
 ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)&nbsp;
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)&nbsp;
