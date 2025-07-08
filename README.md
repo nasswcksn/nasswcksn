@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Candida Noronha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Ola, I'm Anas Wicaksono<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=435&lines=Data+Sciences+%7C+AI+%7C+ML+Enthusiast;Graphic+Designer;PENS...+JOSSS!!!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Data+Sciences+%7C+AI+%7C+ML+Enthusiast;Graphic+Designer;PENS...+JOSSS!!!" alt="Typing SVG" /></a>
 </p>
 
 ## 👨🏻‍💻 About Me
