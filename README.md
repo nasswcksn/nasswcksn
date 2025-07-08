@@ -17,80 +17,36 @@ I am always eager to collaborate on projects that challenge me to grow and expan
 ## 🛠 Skills & Technology
 
 ### 📚 Data Science & Analytics
-<code><a href="https://www.python.org/" target="_blank">
-  <img src="assets/Python_logo_(icon_only).svg"	width="26px" alt="pyton">
-</a></code>
-<code><a href="https://www.r-project.org/" target="_blank">
-  <img src="assets/R-Lang--Streamline-Svg-Logos.png"	width="26px" alt="R">
-</a></code>
-<code><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank">
-  <img src="assets/power-bi-icon.png"	width="26px" alt="Power BI">
-</a></code>
-<code><a href="https://www.chartjs.org/" target="_blank">
-  <img src="assets/Chartjs--Streamline-Svg-Logos (3).png"	width="26px" alt="Chart.js">
-</a></code>
-<code><a href="https://grafana.com/" target="_blank">
-  <img src="assets/Grafana--Streamline-Svg-Logos (1).png"	width="26px" alt="R">
-</a></code>
+<code><a href="https://www.python.org/" target="_blank"><img src="assets/Python_logo_(icon_only).svg"	width="26px" alt="pyton"></a></code>
+<code><a href="https://www.r-project.org/" target="_blank"><img src="assets/R-Lang--Streamline-Svg-Logos.png"	width="26px" alt="R"></a></code>
+<code><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="assets/power-bi-icon.png"	width="26px" alt="Power BI"></a></code>
+<code><a href="https://www.chartjs.org/" target="_blank"><img src="assets/Chartjs--Streamline-Svg-Logos (3).png"	width="26px" alt="Chart.js"></a></code>
+<code><a href="https://grafana.com/" target="_blank"><img src="assets/Grafana--Streamline-Svg-Logos (1).png"	width="26px" alt="R"></a></code>
 
 ### 🛠️ Data Engineer
-<code><a href="https://hadoop.apache.org/" target="_blank">
-  <img src="assets/Hadoop--Streamline-Svg-Logos.png"	width="26px" alt="Hadoop">
-</a></code>
-<code><a href="https://hive.apache.org/" target="_blank">
-  <img src="assets/512px-Apache_Hive_logo.svg.png"	width="26px" alt="Apache Hive">
-</a></code>
-<code><a href="https://airflow.apache.org/" target="_blank">
-  <img src="assets/Airflow-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Apache Airflow">
-</a></code>
-<code><a href="https://spark.apache.org/" target="_blank">
-  <img src="assets/Apache Spark.png"	width="26px" alt="Apache Spark">
-</a></code>
+<code><a href="https://hadoop.apache.org/" target="_blank"><img src="assets/Hadoop--Streamline-Svg-Logos.png"	width="26px" alt="Hadoop"></a></code>
+<code><a href="https://hive.apache.org/" target="_blank"><img src="assets/512px-Apache_Hive_logo.svg.png"	width="26px" alt="Apache Hive"></a></code>
+<code><a href="https://airflow.apache.org/" target="_blank"><img src="assets/Airflow-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Apache Airflow"></a></code>
+<code><a href="https://spark.apache.org/" target="_blank"><img src="assets/Apache Spark.png"	width="26px" alt="Apache Spark"></a></code>
 
 ### 🌐 Web Development
-<code><a href="https://html.spec.whatwg.org/" target="_blank">
-  <img src="assets/html-icon.png"	width="26px" alt="HTML">
-</a></code>
-<code><a href="https://tailwindcss.com/" target="_blank">
-  <img src="assets/Tailwind CSS.png"	width="26px" alt="Tailwind CSS">
-</a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="assets/Javascript--Streamline-Svg-Logos.png" width="26px" alt="JavaScript">
-</a></code>
-<code><a href="https://react.dev/" target="_blank">
-  <img src="assets/React--Streamline-Svg-Logos.png" width="26px" alt="React.js">
-</a></code>
-<code><a href="https://nextjs.org/" target="_blank">
-  <img src="assets/Nextjs-Icon--Streamline-Svg-Logos.png" width="26px" alt="Next.js">
-</a></code>
-<code><a href="https://nodejs.org/" target="_blank">
-  <img src="assets/Nodejs-Icon--Streamline-Svg-Logos.png" width="26px" alt="Node.js">
-</a></code>
-<code><a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="assets/Flask--Streamline-Svg-Logos.png" width="26px" alt="Flask">
-</a></code>
-<code><a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="assets/Fastapi-Icon--Streamline-Svg-Logos.png" width="26px" alt="FastAPI">
-</a></code>
+<code><a href="https://html.spec.whatwg.org/" target="_blank"><img src="assets/html-icon.png"	width="26px" alt="HTML"></a></code>
+<code><a href="https://tailwindcss.com/" target="_blank"><img src="assets/Tailwind CSS.png"	width="26px" alt="Tailwind CSS"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="assets/Javascript--Streamline-Svg-Logos.png" width="26px" alt="JavaScript"></a></code>
+<code><a href="https://react.dev/" target="_blank"><img src="assets/React--Streamline-Svg-Logos.png" width="26px" alt="React.js"></a></code>
+<code><a href="https://nextjs.org/" target="_blank"><img src="assets/Nextjs-Icon--Streamline-Svg-Logos.png" width="26px" alt="Next.js"></a></code>
+<code><a href="https://nodejs.org/" target="_blank"><img src="assets/Nodejs-Icon--Streamline-Svg-Logos.png" width="26px" alt="Node.js"></a></code>
+<code><a href="https://flask.palletsprojects.com/" target="_blank"><img src="assets/Flask--Streamline-Svg-Logos.png" width="26px" alt="Flask"></a></code>
+<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="assets/Fastapi-Icon--Streamline-Svg-Logos.png" width="26px" alt="FastAPI"></a></code>
 
 ### 💻 Tools & Platforms
-<code><a href="https://git-scm.com/" target="_blank">
-  <img src="assets/Git-Icon--Streamline-Svg-Logos.png" width="26px" alt="Git">
-</a></code>
-<code><a href="https://github.com/nasswcksn" target="_blank">
-  <img src="assets/Github-Icon--Streamline-Svg-Logos.png" width="26px" alt="GitHub">
-</a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank">
-  <img src="assets/visual-studio-code-icon.png" width="26px" alt="Visual Studio Code">
-</a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img src="assets/Git-Icon--Streamline-Svg-Logos.png" width="26px" alt="Git"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Github-Icon--Streamline-Svg-Logos.png" width="26px" alt="GitHub"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img src="assets/visual-studio-code-icon.png" width="26px" alt="Visual Studio Code"></a></code>
 
 ### 🎨 Design & Visualization
-<code><a href="https://www.canva.com/" target="_blank">
-  <img src="assets/Canva.png"	width="26px" alt="Canva">
-</a></code>
-<code><a href="https://github.com/nasswcksn" target="_blank">
-  <img src="assets/Figma--Streamline-Svg-Logos.png"	width="26px" alt="Figma">
-</a></code>
+<code><a href="https://www.canva.com/" target="_blank"><img src="assets/Canva.png"	width="26px" alt="Canva"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Figma--Streamline-Svg-Logos.png"	width="26px" alt="Figma"></a></code>
 
 ## ⚙️ GitHub Analytics
 <p align="center">
