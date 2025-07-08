@@ -50,6 +50,8 @@ I am always eager to collaborate on projects that challenge me to grow and expan
 <code><a href="https://git-scm.com/" target="_blank"><img src="assets/Git-Icon--Streamline-Svg-Logos.png" width="26px" alt="Git"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Github-Icon--Streamline-Svg-Logos.png" width="26px" alt="GitHub"></a></code>
 <code><a href="https://code.visualstudio.com/" target="_blank"><img src="assets/visual-studio-code-icon.png" width="26px" alt="Visual Studio Code"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img src="assets/Docker-Icon--Streamline-Svg-Logos.png" width="26px" alt="Visual Studio Code"></a></code>
+
 
 ### 🎨 Design & Visualization
 <code><a href="https://www.canva.com/" target="_blank"><img src="assets/Canva.png" width="26px" alt="Canva"></a></code>
