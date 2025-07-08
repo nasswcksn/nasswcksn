@@ -32,7 +32,7 @@ I am always eager to collaborate on projects that challenge me to grow and expan
 ### 🌐 Web Development
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/html-icon.png"	width="26px" alt="HTML"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/css-icon.png"	width="26px" alt="CSS"></a></code>
-<code><a href="https://github.com/nasswcksn" target="_blank"><img src="Javascript--Streamline-Svg-Logos.png"	width="26px" alt="Javascripts"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Javascript--Streamline-Svg-Logos.png"	width="26px" alt="Javascripts"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/React--Streamline-Svg-Logos.png"	width="26px" alt="React.js"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Nextjs-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Next.js"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Nodejs-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Node.js"></a></code>
