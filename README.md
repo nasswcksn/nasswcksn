@@ -16,14 +16,14 @@ I am always eager to collaborate on projects that challenge me to grow and expan
 
 ## 🛠 Skills & Technology
 
-### 🧑‍🔬 Data Science & Analytics
+### 📚 Data Science & Analytics
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Python_logo_(icon_only).svg"	width="26px" alt="pyton"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/R-Lang--Streamline-Svg-Logos.png"	width="26px" alt="R"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/power-bi-icon.png"	width="26px" alt="Power BI"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Chartjs--Streamline-Svg-Logos (3).png"	width="26px" alt="Chart.js"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Grafana--Streamline-Svg-Logos (1).png"	width="26px" alt="R"></a></code>
 
-### Data Engineer
+### 🛠️ Data Engineer
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Hadoop--Streamline-Svg-Logos.png"	width="26px" alt="Hadoop"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/512px-Apache_Hive_logo.svg.png"	width="26px" alt="Apache Hive"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Airflow-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Apache Airflow"></a></code>
@@ -36,7 +36,7 @@ I am always eager to collaborate on projects that challenge me to grow and expan
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/React--Streamline-Svg-Logos.png"	width="26px" alt="React.js"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Nextjs-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Next.js"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Nodejs-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Node.js"></a></code>
-<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Flask--Streamline-Svg-Logos.png"	width="26px" alt="Flask"></a></code>
+<code style="background-color: #fff; border-radius: 6px; padding: 2px 4px; display: inline-block;"><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Flask--Streamline-Svg-Logos.png" width="26px" alt="Flask"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Fastapi-Icon--Streamline-Svg-Logos.png"	width="26px" alt="FastAPI"></a></code>
 
 ### 💻 Tools & Platforms
