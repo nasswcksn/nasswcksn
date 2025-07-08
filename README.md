@@ -28,36 +28,25 @@ I am always eager to collaborate on projects that challenge me to grow and expan
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/512px-Apache_Hive_logo.svg.png"	width="26px" alt="Apache Hive"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Airflow-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Apache Airflow"></a></code>
 <code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Apache-Spark--Streamline-Svg-Logos.png"	width="26px" alt="R"></a></code>
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)&nbsp;
-![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)&nbsp;
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)&nbsp;
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)&nbsp;
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=323330)&nbsp;
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=20232A)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)&nbsp;
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/html-icon.png"	width="26px" alt="HTML"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/css-icon.png"	width="26px" alt="CSS"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="Javascript--Streamline-Svg-Logos.png"	width="26px" alt="Javascripts"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/React--Streamline-Svg-Logos.png"	width="26px" alt="React.js"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Nextjs-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Next.js"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Nodejs-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Node.js"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Flask--Streamline-Svg-Logos.png"	width="26px" alt="Flask"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Fastapi-Icon--Streamline-Svg-Logos.png"	width="26px" alt="FastAPI"></a></code>
 
 ### 💻 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Git-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Git"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Github-Icon--Streamline-Svg-Logos.png"	width="26px" alt="Github"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/visual-studio-code-icon.png"	width="26px" alt="Visual Studio Code"></a></code>
 
 ### 🎨 Design & Visualization
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-E34F26?style=flat&logo=figma&logoColor=white)&nbsp;
-
-## 🏆 GitHub Trophies
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=nasswcksn&theme=algolia&column=7"/>
-</a>
-</p>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Canva.png"	width="26px" alt="Canva"></a></code>
+<code><a href="https://github.com/nasswcksn" target="_blank"><img src="assets/Figma--Streamline-Svg-Logos.png"	width="26px" alt="Figma"></a></code>
 
 ## ⚙️ GitHub Analytics
 <p align="center">
