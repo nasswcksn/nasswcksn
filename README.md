@@ -1,39 +1,7 @@
-
-<!-- Banner dan Profil Institusi -->
-<table>
-<tr>
-<!-- Logo Kampus PENS -->
-<td valign="top" align="center">
-  <a href="https://www.pens.ac.id/" target="_blank" style="text-decoration: none;">
-    <img src="./assets/Logo_PENS (1).png" alt="Logo PENS" width="200"><br>
-    <img 
-      src="https://img.shields.io/badge/Visit%20Official%20Website-0057B8?style=for-the-badge&logo=internet-explorer&logoColor=white" 
-      alt="Official Website"
-      style="border: 2px solid #0057B8; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"
-    />
-  </a>
-</td>
-</td>
-<td valign="top">
-<h2>ANAS WICAKSONO</h2>
-<p><b>Applied Data Science Student at Politeknik Elektronika Negeri Surabaya (PENS)</b></p>
-<p>Surabaya, East Java, Indonesia</p>
-<br>
-<b>Institution Information:</b>
-<ul>
-  <li><b>Address:</b> Jalan Raya ITS, Sukolilo, Surabaya 60111, East Java, Indonesia</li>
-  <li><b>Phone:</b> (62)31 5947280</li>
-  <li><b>Established:</b> 1984</li>
-</ul>
-</td>
-</tr>
-</table>
-
-<!-- Banner Kampus (opsional, jika ingin menampilkan gambar kampus) -->
+<h1 align="center">Hi , I'm Candida Noronha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="./assets/pens.jpg" alt="PENS Campus" width="60%"/>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Data%20Sciences%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;PENS... JOSSS!!!&center=true&width=500&height=50&font=georgia"></a>
 </p>
-
 
 ## 👨🏻‍💻 About Me
 
@@ -48,30 +16,38 @@ I am always eager to collaborate on projects that challenge me to grow and expan
 
 ## 🛠 Skills & Technology
 
-<!-- Tambahkan atau sesuaikan sesuai keahlian Anda -->
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=323330)&nbsp;
+### 🧑‍🔬 Data Science & Analytics
+<code><a href="https://github.com/danielex1999" target="_blank"><img src="assets/Python_logo_(icon_only).svg"	width="26px" alt="pyton"></a></code>
 ![R (Statistics)](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)&nbsp;
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)&nbsp;
+
+### Data Engineer
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)&nbsp;
+![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)&nbsp;
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)&nbsp;
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=323330)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=20232A)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
+
+### 💻 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)&nbsp;
+
+### 🎨 Design & Visualization
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)&nbsp;
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)&nbsp;
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)&nbsp;
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)&nbsp;
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)&nbsp;
-![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)&nbsp;
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-E34F26?style=flat&logo=figma&logoColor=white)&nbsp;
 
 ## 🏆 GitHub Trophies
 <p align="center">
