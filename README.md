@@ -26,7 +26,7 @@ I am always eager to collaborate on projects that challenge me to grow and expan
 <code><a href="https://www.chartjs.org/" target="_blank"><img src="assets/Chartjs--Streamline-Svg-Logos (3).png" width="26px" alt="Chart.js"></a></code>
 <code><a href="https://grafana.com/" target="_blank"><img src="assets/Grafana--Streamline-Svg-Logos (1).png" width="26px" alt="Grafana"></a></code>
 
-### 🗄️ Backend Development & Data Engineering
+### 🗄️ Backend Development & Big Data
 <code><a href="https://www.mongodb.com/" target="_blank"><img src="assets/MongoDB.png" width="26px" alt="MongoDB"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img src="assets/MySQL.png" width="26px" alt="MySQL"></a></code>
 <code><a href="https://www.php.net/" target="_blank"><img src="assets/PHP.png" width="26px" alt="PHP"></a></code>
